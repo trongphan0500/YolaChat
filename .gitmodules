@@ -1,0 +1,6 @@
+[submodule "YolaChat-Server"]
+	path = YolaChat-Server
+	url = https://github.com/trongphan0500/YolaChat-Server
+[submodule "YolaChat-Client"]
+	path = YolaChat-Client
+	url = https://github.com/trongphan0500/YolaChat-Client
